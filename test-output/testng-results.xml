@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31284" started-at="2021-12-15T09:44:13Z" finished-at="2021-12-15T09:44:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31284" started-at="2021-12-15T09:44:13Z" finished-at="2021-12-15T09:44:44Z">
+      <class name="POM2.RunnerClass_page">
+        <test-method status="PASS" signature="pre_Condition()[pri:0, instance:POM2.RunnerClass_page@20322d26]" name="pre_Condition" is-config="true" duration-ms="23879" started-at="2021-12-15T09:44:13Z" finished-at="2021-12-15T09:44:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pre_Condition -->
+        <test-method status="PASS" signature="RunnerClass_page()[pri:0, instance:POM2.RunnerClass_page@20322d26]" name="RunnerClass_page" duration-ms="7358" started-at="2021-12-15T09:44:37Z" finished-at="2021-12-15T09:44:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunnerClass_page -->
+      </class> <!-- POM2.RunnerClass_page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
